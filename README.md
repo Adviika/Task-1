@@ -15,3 +15,6 @@ Projects: A showcase of work or portfolio pieces. Contact: Ways for visitors to 
 Footer: Additional info or links, typically at the bottom of the page. 
 Modern UI: Uses utility-first CSS classes (possibly Tailwind CSS, based on the class names) for styling and layout. 
 This is a modern, customizable portfolio website built with Next.js.
+
+OUTPUT
+![Image](https://github.com/user-attachments/assets/271d1c45-e1c0-48e2-93b4-9422779011ca)
